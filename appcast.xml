@@ -4,6 +4,14 @@
         <title>AlexSideBar-1.1</title>
         <item>
             <title>1.1</title>
+            <pubDate>Mon, 07 Oct 2024 20:47:01 -0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://danieledrisian.github.io/AlexSideBar-Public/AlexSideBar-1.2.zip" length="12713004" type="application/octet-stream" sparkle:edSignature="vJuXKUvl53ZDFZh1zckjjO4lt9HDZ5YgmcMVXwjUsex6aJON1dv76x3xj/+ghFWygWsp9G3J7U1q5Uv/kpOMCQ=="/>
+        </item>
+        <item>
+            <title>1.1</title>
             <pubDate>Mon, 07 Oct 2024 20:22:00 -0700</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
