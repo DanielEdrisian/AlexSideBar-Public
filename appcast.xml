@@ -1,22 +1,22 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>AlexSideBar-1.1</title>
+        <title>AlexSideBar-0.98</title>
         <item>
-            <title>1.1</title>
-            <pubDate>Mon, 07 Oct 2024 20:47:01 -0700</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <title>3</title>
+            <pubDate>Tue, 08 Oct 2024 00:54:49 -0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DanielEdrisian/AlexSideBar-Public/releases/download/1.2/AlexSideBar-1.2.zip" length="12713004" type="application/octet-stream" sparkle:edSignature="vJuXKUvl53ZDFZh1zckjjO4lt9HDZ5YgmcMVXwjUsex6aJON1dv76x3xj/+ghFWygWsp9G3J7U1q5Uv/kpOMCQ=="/>
+            <enclosure url="https://github.com/DanielEdrisian/AlexSideBar-Public/releases/download/3.0/AlexSideBar-3.0.zip" length="12713156" type="application/octet-stream" sparkle:edSignature="Lm9YPoDcNI4NUlQmAckr9Z1xc8ezZa3ZB2hmNNRSPZGWDq06y3PmC9BeYjU5EBmpe2cZYrY1MCBl64oTn0egBA=="/>
         </item>
         <item>
-            <title>1.1</title>
-            <pubDate>Mon, 07 Oct 2024 20:22:00 -0700</pubDate>
+            <title>0.98</title>
+            <pubDate>Tue, 08 Oct 2024 00:52:02 -0700</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.98</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://danieledrisian.github.io/AlexSideBar-Public/AlexSideBar-1.1.zip" length="12713029" type="application/octet-stream" sparkle:edSignature="zng3DohO8A/txJEolOvpJHSOPokVKj43cYbDcU4DFkNQ7jZaWTqMD1HrZoj5CRqSkkQoEKGDn3mqxaD0Kj3jCA=="/>
+            <enclosure url="https://github.com/DanielEdrisian/AlexSideBar-Public/releases/download/0.98/AlexSideBar-0.98.zip" length="12714172" type="application/octet-stream" sparkle:edSignature="6Gayzx2f+QTe8o/Ny3kn7kjBSpiJiNhCXHhoBb4P5xPwWl7+po/i8tS1jHOeVODY9cUrS1bSn4GRiuVavSsKDg=="/>
         </item>
     </channel>
 </rss>
