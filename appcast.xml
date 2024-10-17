@@ -1,22 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>AlexSideBar-0.98</title>
+        <title>AlexSideBar</title>
         <item>
-            <title>3</title>
-            <pubDate>Tue, 08 Oct 2024 00:54:49 -0700</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DanielEdrisian/AlexSideBar-Public/releases/download/3.0/AlexSideBar-3.0.zip" length="12713156" type="application/octet-stream" sparkle:edSignature="Lm9YPoDcNI4NUlQmAckr9Z1xc8ezZa3ZB2hmNNRSPZGWDq06y3PmC9BeYjU5EBmpe2cZYrY1MCBl64oTn0egBA=="/>
-        </item>
-        <item>
-            <title>0.98</title>
-            <pubDate>Tue, 08 Oct 2024 00:52:02 -0700</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.98</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DanielEdrisian/AlexSideBar-Public/releases/download/0.98/AlexSideBar-0.98.zip" length="12714172" type="application/octet-stream" sparkle:edSignature="6Gayzx2f+QTe8o/Ny3kn7kjBSpiJiNhCXHhoBb4P5xPwWl7+po/i8tS1jHOeVODY9cUrS1bSn4GRiuVavSsKDg=="/>
+            <title>1.1.0</title>
+            <pubDate>Thu, 17 Oct 2024 14:23:44 -0700</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/DanielEdrisian/AlexSideBar-Public/releases/download/prod/AlexSideBar.dmg" length="13746969" type="application/octet-stream" sparkle:edSignature="vVpZliz9an/cRI/XVmHJLm2W8oOgcEZ2ws2XgMHaP6UzD6dNvY+f6oBkhojEquE3QpNRTg2ejF8Lq2diEK43Dw=="/>
         </item>
     </channel>
 </rss>
