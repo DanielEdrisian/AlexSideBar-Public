@@ -9,6 +9,9 @@
             <sparkle:shortVersionString>1.1.25</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/DanielEdrisian/AlexSideBar-Public/releases/download/prod/AlexSideBar.dmg" length="15128077" type="application/octet-stream" sparkle:edSignature="dgS0igOvO4OtZ8lpIY3zIBqEG/r4BebL1ELXo9tyEqVvZd+SHdKc9vEuIRRG7K47w92a7BL1gh6dBBal/YX3Bw=="/>
+            <description><![CDATA[
+                <b>Critical fix for Cmd+Enter and codebase search.</b>
+            ]]></description>
         </item>
     </channel>
 </rss>
