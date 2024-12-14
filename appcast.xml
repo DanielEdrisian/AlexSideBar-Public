@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Alex</title>
+        <title>AlexSideBar</title>
         <item>
-            <title>1.3.8</title>
-            <pubDate>Fri, 13 Dec 2024 18:36:09 -0800</pubDate>
-            <sparkle:version>86</sparkle:version>
-            <sparkle:shortVersionString>1.3.8</sparkle:shortVersionString>
+            <title>1.3.7</title>
+            <pubDate>Thu, 12 Dec 2024 16:25:15 -0800</pubDate>
+            <sparkle:version>81</sparkle:version>
+            <sparkle:shortVersionString>1.3.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://danieledrisian.github.io/AlexSideBar-Public/Alex.dmg" length="18310119" type="application/octet-stream" sparkle:edSignature="S4zsfAxrX0Pp/yCbNtyGX7zjUh0pwl/j9L1JBn0qeT/HrNRK0WochbmfvC25qQ5gYtnyBgYQtH8bv+wZimdEAA=="/>
+            <enclosure url="https://github.com/DanielEdrisian/AlexSideBar-Public/releases/download/prod/AlexSideBar.dmg" length="18267487" type="application/octet-stream" sparkle:edSignature="sIbdpfLsI6Q1Qrt7konXQMNmBSPQO0lszr67afQr1K+iIkYh9+wKYIq7e+qG3nrMyhXZ6/6lAH66C3IWip4QCA=="/>
         </item>
     </channel>
 </rss>
