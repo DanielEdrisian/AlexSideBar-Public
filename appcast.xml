@@ -3,12 +3,12 @@
     <channel>
         <title>AlexSideBar</title>
         <item>
-            <title>2.5.7</title>
-            <pubDate>Tue, 08 Apr 2025 14:10:25 -0700</pubDate>
-            <sparkle:version>191</sparkle:version>
-            <sparkle:shortVersionString>2.5.7</sparkle:shortVersionString>
+            <title>2.5.8</title>
+            <pubDate>Fri, 18 Apr 2025 20:17:37 -0700</pubDate>
+            <sparkle:version>194</sparkle:version>
+            <sparkle:shortVersionString>2.5.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DanielEdrisian/AlexSideBar-Public/releases/download/prod/AlexSideBar.dmg" length="15135479" type="application/octet-stream" sparkle:edSignature="ngD75z9IK2wnPY4kOS2jjQwU8Kjz/u0IRjsOxxmlj8tg2yZQeSMBapXTp0BSSwbZnPoRdlFN71BYsgqRPi01BQ=="/>
+            <enclosure url="https://github.com/DanielEdrisian/AlexSideBar-Public/releases/download/prod/AlexSideBar.dmg" length="17137654" type="application/octet-stream" sparkle:edSignature="Lb24Wsrw4pm2gUAyZ+1+okcTUy4rWQEbZyWdGe6LDxaucyryyc0U+RB6sKK04w6v58+98tASWqf5id6yWv4aDw=="/>
         </item>
     </channel>
 </rss>
