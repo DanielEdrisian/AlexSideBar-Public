@@ -1,0 +1,5 @@
+release_github.sh
+i18n.cache
+.DS_Store
+releases/
+uploader.sh
